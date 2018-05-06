@@ -1,0 +1,8 @@
+.import/
+.mono/
+.vs/
+.idea/
+export_presets.cfg
+packages/
+obj/
+bin/

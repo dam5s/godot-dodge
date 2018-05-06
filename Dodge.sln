@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dodge", "Dodge.csproj", "{CECF87BC-3D2E-403F-B2DD-CC963B253A19}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "GameLogic", "GameLogic\GameLogic.fsproj", "{B964E8B4-62CF-4E17-A0FB-343EB7666EC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Tools|Any CPU = Tools|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CECF87BC-3D2E-403F-B2DD-CC963B253A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECF87BC-3D2E-403F-B2DD-CC963B253A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECF87BC-3D2E-403F-B2DD-CC963B253A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECF87BC-3D2E-403F-B2DD-CC963B253A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CECF87BC-3D2E-403F-B2DD-CC963B253A19}.Tools|Any CPU.ActiveCfg = Tools|Any CPU
+		{CECF87BC-3D2E-403F-B2DD-CC963B253A19}.Tools|Any CPU.Build.0 = Tools|Any CPU
+		{B964E8B4-62CF-4E17-A0FB-343EB7666EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B964E8B4-62CF-4E17-A0FB-343EB7666EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B964E8B4-62CF-4E17-A0FB-343EB7666EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B964E8B4-62CF-4E17-A0FB-343EB7666EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B964E8B4-62CF-4E17-A0FB-343EB7666EC3}.Tools|Any CPU.ActiveCfg = Debug|Any CPU
+		{B964E8B4-62CF-4E17-A0FB-343EB7666EC3}.Tools|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
